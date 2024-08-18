@@ -1,6 +1,3 @@
-Here’s a sample `README.md` file for your "Coding Tracker" project on GitHub. This file provides an overview of the project, instructions for setup, and usage guidelines.
-
-```markdown
 # Coding Tracker
 
 Coding Tracker is a console application built with C# (.NET 8) that allows users to track and manage coding sessions. The application uses SQLite for data storage and Dapper for data access, while Spectre.Console is used for creating a visually appealing command-line interface.
@@ -103,4 +100,3 @@ For any questions or suggestions, please contact [your-email@example.com](mailto
 ---
 
 Enjoy tracking your coding sessions with Coding Tracker!
-```
