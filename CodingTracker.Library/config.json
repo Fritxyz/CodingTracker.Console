@@ -1,0 +1,13 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "ConnectionStrings": {
+    "Default": "Data Source=D:\\Programming Outputs\\C# Academy\\CodingTracker.Console\\CodingTracker.Console.Demo\\coding-tracker.db; Version=3; New=True;"
+  }
+}

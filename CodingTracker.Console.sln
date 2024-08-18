@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingTracker.Console.Demo", "CodingTracker.Console.Demo\CodingTracker.Console.Demo.csproj", "{64DCAD17-1E1A-45C4-A1BF-F5B3026DB4D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingTracker.Library", "CodingTracker.Library\CodingTracker.Library.csproj", "{E98F64B0-403E-4D31-BC66-A2A21B809A9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64DCAD17-1E1A-45C4-A1BF-F5B3026DB4D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64DCAD17-1E1A-45C4-A1BF-F5B3026DB4D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64DCAD17-1E1A-45C4-A1BF-F5B3026DB4D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64DCAD17-1E1A-45C4-A1BF-F5B3026DB4D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E98F64B0-403E-4D31-BC66-A2A21B809A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E98F64B0-403E-4D31-BC66-A2A21B809A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E98F64B0-403E-4D31-BC66-A2A21B809A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E98F64B0-403E-4D31-BC66-A2A21B809A9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFC66C7E-BB71-4303-8F68-2EC615F9E86E}
+	EndGlobalSection
+EndGlobal
